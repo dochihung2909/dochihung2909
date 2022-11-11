@@ -13,6 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://fb.com/https://www.facebook.com/chihung29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chihung29/" height="30" width="40" /></a>
+  <a href="https://wakatime.com/@b523bf88-028a-452e-8d55-7ed95ec94c4e"><img src="https://wakatime.com/badge/user/b523bf88-028a-452e-8d55-7ed95ec94c4e.svg" alt="Total time coded since Dec 30 2021" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +24,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dochihung2909&show_icons=true&theme=dark&locale=en" alt="dochihung2909" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dochihung2909&theme=dark" alt="dochihung2909" /></p>
+
