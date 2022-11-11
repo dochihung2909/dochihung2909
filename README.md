@@ -3,6 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dochihung2909&label=Profile%20views&color=ff7300&style=plastic" alt="dochihung2909" /> </p>
+<a href="https://wakatime.com/@b523bf88-028a-452e-8d55-7ed95ec94c4e"><img src="https://wakatime.com/badge/user/b523bf88-028a-452e-8d55-7ed95ec94c4e.svg" alt="Total time coded since Dec 30 2021" /></a>
 
 - 🔭 I’m currently working on **Ho Chi Minh City**
 
@@ -12,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-<a href="https://fb.com/https://www.facebook.com/chihung29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chihung29/" height="30" width="40" /></a>
-  [![wakatime](https://wakatime.com/badge/user/b523bf88-028a-452e-8d55-7ed95ec94c4e.svg)](https://wakatime.com/@b523bf88-028a-452e-8d55-7ed95ec94c4e)
+<a href="https://fb.com/https://www.facebook.com/chihung29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chihung29/" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
