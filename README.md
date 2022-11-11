@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p>
 <a href="https://fb.com/https://www.facebook.com/chihung29/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chihung29/" height="30" width="40" /></a>
-  <a href="https://wakatime.com/@b523bf88-028a-452e-8d55-7ed95ec94c4e"><img src="https://wakatime.com/badge/user/b523bf88-028a-452e-8d55-7ed95ec94c4e.svg" alt="Total time coded since Dec 30 2021" /></a>
+  [![wakatime](https://wakatime.com/badge/user/b523bf88-028a-452e-8d55-7ed95ec94c4e.svg)](https://wakatime.com/@b523bf88-028a-452e-8d55-7ed95ec94c4e)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
