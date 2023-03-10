@@ -7,21 +7,20 @@
     src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"
 />
 
-<p align="left">
-    <img
-        src="https://komarev.com/ghpvc/?username=dochihung2909&label=Profile%20views&color=ff7300&style=plastic"
-        alt="dochihung2909"
-    />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dochihung2909&label=Profile%20views&color=ff7300&style=plastic" alt="dochihung2909" /> </p>
 <a href="https://wakatime.com/@b523bf88-028a-452e-8d55-7ed95ec94c4e"
     ><img
         src="https://wakatime.com/badge/user/b523bf88-028a-452e-8d55-7ed95ec94c4e.svg"
         alt="Total time coded since Dec 30 2021"
 /></a>
 
-- 🔭 I’m currently working on **Ho Chi Minh City** - 🌱 I’m currently learning **ReactJs,Boostrap,SASS,JavaScript** - 📫
-How to reach me **hungdo29090310@gmail.com** - 📄 Know about my experiences
-[https://www.linkedin.com/in/do-chi-hung/](https://www.linkedin.com/in/do-chi-hung/)
+- 🔭 I’m currently working on **Ho Chi Minh City**
+
+- 🌱 I’m currently learning **ReactJs,Boostrap,SASS**
+
+- 📫 How to reach me **hungdo29090310@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/do-chi-hung/](https://www.linkedin.com/in/do-chi-hung/)
 
 <h3 align="left">Connect with me:</h3>
 <p>
