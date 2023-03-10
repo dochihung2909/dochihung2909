@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Ho Chi Minh City**
 
-- 🌱 I’m currently learning **ReactJs,Boostrap,SASS**
+- 🌱 I’m currently learning **ReactJS,SASS,JavaScript**
 
 - 📫 How to reach me **hungdo29090310@gmail.com**
 
