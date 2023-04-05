@@ -147,28 +147,4 @@
             height="40"
         />
     </a>
-</p>
-
-<p align="center">
-    <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=dochihung2909&show_icons=true&theme=dark&locale=en&layout=compact"
-        alt="dochihung2909"
-    />
-</p>
-
-<p align="center">
-    &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=dochihung2909&show_icons=true&theme=dark&locale=en"
-        alt="dochihung2909"
-    />
-</p>
-
-<p align="center">
-    <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=dochihung2909&theme=dark"
-        alt="dochihung2909"
-    />
-</p>
+</p> 
